@@ -20,6 +20,25 @@
 
 # My Current Setting
 
-- You can upload leetcode accoding to <b>difficulty</b> under 'LeetCode' Folder with my current setting
+<h3><b>1.  Difficulty</b></h3>
+&nbsp You can upload leetcode accoding to <b>difficulty</b> under 'LeetCode' Folder with my current setting
 
-![difficulty](difficulty.png)
+<div style="display: flex; justify-content: center;">
+  <img src="assets/difficulty.png" alt="difficulty">
+</div>
+
+<br>
+<h3><b>2. Badge</b></h3>
+&nbsp Shields.io badge is applied. It varies with difficulty
+<br>
+<div style="display: flex; justify-content: center;">
+  <img src="assets/diff_easy.png" alt="diff_easy" width = 400>
+</div>
+<br>
+<div style="display: flex; justify-content: center;">
+  <img src="assets/diff_medium.png" alt="diff_medium" width = 400>
+</div>
+<br>
+<div style="display: flex; justify-content: center;">
+  <img src="assets/diff_hard.png" alt="diff_hard" width = 400>
+</div>
