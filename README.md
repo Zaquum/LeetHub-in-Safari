@@ -1,4 +1,4 @@
-# How to set up LeetHub for Safari?
+<h1> Leetcode with Safari or Chrome! </h1>
 
 - Special Thanks to <b>arunbhardwaj</b>. <br> LeetHub-2.0 from <a href="https://github.com/arunbhardwaj/LeetHub-2.0">his repo</a>
 
