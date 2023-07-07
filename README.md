@@ -2,7 +2,7 @@
 
 - Special Thanks to <b>arunbhardwaj</b>. <br> LeetHub-2.0 from <a href="https://github.com/arunbhardwaj/LeetHub-2.0">his repo</a>
 
-# My Current Setting
+# 1. My Current Setting
 - It works in the new version UI of Leetcode <br>
 - LeetHub v2 : Safari Extension<br> LeetHub-2.0 : Chrome Extension
 <h3><b>1.  Difficulty</b></h3>
@@ -29,7 +29,7 @@
 </div>
 <br>
 
-# Set up LeetHub
+# 2. Set up LeetHub
 <ol>
   <li>Fork this repo and clone to your local machine</li>
   <li>Customize Leethub setting in LeetHub-2.0 Folder (<u>Chrome Extension</u>) <br></li>
