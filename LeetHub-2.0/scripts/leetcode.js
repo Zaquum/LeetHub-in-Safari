@@ -673,8 +673,65 @@ function LeetCodeV2() {
 LeetCodeV2.prototype.init = async function () {
   // Get submission ID
   const submissionUrl = window.location.href;
-  const submissionId = parseInt(submissionUrl.split('/submissions/')[1].slice(0, -1));
+  // const submissionId = parseInt(submissionUrl.split('/submissions/')[1].slice(0, -1));
 
+  // apply new ui
+  let submissionId = parseInt(submissionUrl.split('/submissions/')[1].slice(0, -1));
+
+  const submissionIdQuery = {
+    query:
+      '\n' +
+      '    query submissionList($offset: Int!, $limit: Int!, $lastKey: String, $questionSlug: String!, $lang: Int, $status: Int) {\n' +
+      '  questionSubmissionList(\n' +
+      '    offset: $offset\n' +
+      '    limit: $limit\n' +
+      '    lastKey: $lastKey\n' +
+      '    questionSlug: $questionSlug\n' +
+      '    lang: $lang\n' +
+      '    status: $status\n' +
+      '  ) {\n' +
+      '    lastKey\n' +
+      '    hasNext\n' +
+      '    submissions {\n' +
+      '      id\n' +
+      '      title\n' +
+      '      titleSlug\n' +
+      '      status\n' +
+      '      statusDisplay\n' +
+      '      lang\n' +
+      '      langName\n' +
+      '      runtime\n' +
+      '      timestamp\n' +
+      '      url\n' +
+      '      isPending\n' +
+      '      memory\n' +
+      '      hasNotes\n' +
+      '      notes\n' +
+      '    }\n' +
+      '  }\n' +
+      '}\n',
+    variables: {
+      offset: 0,
+      limit: 20,
+      questionSlug: submissionUrl.split('/problems/')[1].split('/')[0],
+    },
+  };
+  const idoptions = {
+    method: 'POST',
+    headers: {
+      cookie: document.cookie,
+      'content-type': 'application/json',
+    },
+    body: JSON.stringify(submissionIdQuery),
+  };
+
+  const idresponse = await fetch('https://leetcode.com/graphql', idoptions)
+    .then(response => response.json())
+    .then(response => {
+      submissionId = response.data.questionSubmissionList.submissions[0].id;
+  });
+  ////////////////////////////////
+  
   // Query for getting the solution runtime and memory stats, the code, the coding language, the question id, question title and question difficulty
   const submissionDetailsQuery = {
     query:

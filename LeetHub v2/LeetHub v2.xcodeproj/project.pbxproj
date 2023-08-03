@@ -7,88 +7,88 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		372347672A56AA67002BE596 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 372347662A56AA67002BE596 /* AppDelegate.swift */; };
-		372347692A56AA67002BE596 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 372347682A56AA67002BE596 /* SceneDelegate.swift */; };
-		3723476C2A56AA67002BE596 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 3723476A2A56AA67002BE596 /* LaunchScreen.storyboard */; };
-		3723476F2A56AA67002BE596 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 3723476D2A56AA67002BE596 /* Main.storyboard */; };
-		372347782A56AA67002BE596 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 372347772A56AA67002BE596 /* AppDelegate.swift */; };
-		3723477B2A56AA67002BE596 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 372347792A56AA67002BE596 /* Main.storyboard */; };
-		372347832A56AA67002BE596 /* LeetHub v2 Extension.appex in Embed Foundation Extensions */ = {isa = PBXBuildFile; fileRef = 372347822A56AA67002BE596 /* LeetHub v2 Extension.appex */; settings = {ATTRIBUTES = (RemoveHeadersOnCopy, ); }; };
-		3723478D2A56AA67002BE596 /* LeetHub v2 Extension.appex in Embed Foundation Extensions */ = {isa = PBXBuildFile; fileRef = 3723478C2A56AA67002BE596 /* LeetHub v2 Extension.appex */; settings = {ATTRIBUTES = (RemoveHeadersOnCopy, ); }; };
-		372347932A56AA67002BE596 /* Main.html in Resources */ = {isa = PBXBuildFile; fileRef = 372347562A56AA66002BE596 /* Main.html */; };
-		372347942A56AA67002BE596 /* Main.html in Resources */ = {isa = PBXBuildFile; fileRef = 372347562A56AA66002BE596 /* Main.html */; };
-		372347952A56AA67002BE596 /* Icon.png in Resources */ = {isa = PBXBuildFile; fileRef = 372347582A56AA66002BE596 /* Icon.png */; };
-		372347962A56AA67002BE596 /* Icon.png in Resources */ = {isa = PBXBuildFile; fileRef = 372347582A56AA66002BE596 /* Icon.png */; };
-		372347972A56AA67002BE596 /* Style.css in Resources */ = {isa = PBXBuildFile; fileRef = 372347592A56AA66002BE596 /* Style.css */; };
-		372347982A56AA67002BE596 /* Style.css in Resources */ = {isa = PBXBuildFile; fileRef = 372347592A56AA66002BE596 /* Style.css */; };
-		372347992A56AA67002BE596 /* Script.js in Resources */ = {isa = PBXBuildFile; fileRef = 3723475A2A56AA66002BE596 /* Script.js */; };
-		3723479A2A56AA67002BE596 /* Script.js in Resources */ = {isa = PBXBuildFile; fileRef = 3723475A2A56AA66002BE596 /* Script.js */; };
-		3723479B2A56AA67002BE596 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3723475B2A56AA66002BE596 /* ViewController.swift */; };
-		3723479C2A56AA67002BE596 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3723475B2A56AA66002BE596 /* ViewController.swift */; };
-		3723479D2A56AA67002BE596 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 3723475C2A56AA67002BE596 /* Assets.xcassets */; };
-		3723479E2A56AA67002BE596 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 3723475C2A56AA67002BE596 /* Assets.xcassets */; };
-		3723479F2A56AA67002BE596 /* SafariWebExtensionHandler.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3723475E2A56AA67002BE596 /* SafariWebExtensionHandler.swift */; };
-		372347A02A56AA67002BE596 /* SafariWebExtensionHandler.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3723475E2A56AA67002BE596 /* SafariWebExtensionHandler.swift */; };
-		372347BD2A56AA67002BE596 /* popup.js in Resources */ = {isa = PBXBuildFile; fileRef = 372347B22A56AA67002BE596 /* popup.js */; };
-		372347BE2A56AA67002BE596 /* LICENSE in Resources */ = {isa = PBXBuildFile; fileRef = 372347B32A56AA67002BE596 /* LICENSE */; };
-		372347BF2A56AA67002BE596 /* css in Resources */ = {isa = PBXBuildFile; fileRef = 372347B42A56AA67002BE596 /* css */; };
-		372347C02A56AA67002BE596 /* popup.html in Resources */ = {isa = PBXBuildFile; fileRef = 372347B52A56AA67002BE596 /* popup.html */; };
-		372347C12A56AA67002BE596 /* README.md in Resources */ = {isa = PBXBuildFile; fileRef = 372347B62A56AA67002BE596 /* README.md */; };
-		372347C22A56AA67002BE596 /* package-lock.json in Resources */ = {isa = PBXBuildFile; fileRef = 372347B72A56AA67002BE596 /* package-lock.json */; };
-		372347C32A56AA67002BE596 /* package.json in Resources */ = {isa = PBXBuildFile; fileRef = 372347B82A56AA67002BE596 /* package.json */; };
-		372347C42A56AA67002BE596 /* scripts in Resources */ = {isa = PBXBuildFile; fileRef = 372347B92A56AA67002BE596 /* scripts */; };
-		372347C52A56AA67002BE596 /* welcome.html in Resources */ = {isa = PBXBuildFile; fileRef = 372347BA2A56AA67002BE596 /* welcome.html */; };
-		372347C62A56AA67002BE596 /* manifest.json in Resources */ = {isa = PBXBuildFile; fileRef = 372347BB2A56AA67002BE596 /* manifest.json */; };
-		372347C72A56AA67002BE596 /* assets in Resources */ = {isa = PBXBuildFile; fileRef = 372347BC2A56AA67002BE596 /* assets */; };
-		372347C82A56AA67002BE596 /* popup.js in Resources */ = {isa = PBXBuildFile; fileRef = 372347B22A56AA67002BE596 /* popup.js */; };
-		372347C92A56AA67002BE596 /* LICENSE in Resources */ = {isa = PBXBuildFile; fileRef = 372347B32A56AA67002BE596 /* LICENSE */; };
-		372347CA2A56AA67002BE596 /* css in Resources */ = {isa = PBXBuildFile; fileRef = 372347B42A56AA67002BE596 /* css */; };
-		372347CB2A56AA67002BE596 /* popup.html in Resources */ = {isa = PBXBuildFile; fileRef = 372347B52A56AA67002BE596 /* popup.html */; };
-		372347CC2A56AA67002BE596 /* README.md in Resources */ = {isa = PBXBuildFile; fileRef = 372347B62A56AA67002BE596 /* README.md */; };
-		372347CD2A56AA67002BE596 /* package-lock.json in Resources */ = {isa = PBXBuildFile; fileRef = 372347B72A56AA67002BE596 /* package-lock.json */; };
-		372347CE2A56AA67002BE596 /* package.json in Resources */ = {isa = PBXBuildFile; fileRef = 372347B82A56AA67002BE596 /* package.json */; };
-		372347CF2A56AA67002BE596 /* scripts in Resources */ = {isa = PBXBuildFile; fileRef = 372347B92A56AA67002BE596 /* scripts */; };
-		372347D02A56AA67002BE596 /* welcome.html in Resources */ = {isa = PBXBuildFile; fileRef = 372347BA2A56AA67002BE596 /* welcome.html */; };
-		372347D12A56AA67002BE596 /* manifest.json in Resources */ = {isa = PBXBuildFile; fileRef = 372347BB2A56AA67002BE596 /* manifest.json */; };
-		372347D22A56AA67002BE596 /* assets in Resources */ = {isa = PBXBuildFile; fileRef = 372347BC2A56AA67002BE596 /* assets */; };
+		37EA95E42A612101008C32BE /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 37EA95E32A612101008C32BE /* AppDelegate.swift */; };
+		37EA95E62A612101008C32BE /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 37EA95E52A612101008C32BE /* SceneDelegate.swift */; };
+		37EA95E92A612101008C32BE /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 37EA95E72A612101008C32BE /* LaunchScreen.storyboard */; };
+		37EA95EC2A612101008C32BE /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 37EA95EA2A612101008C32BE /* Main.storyboard */; };
+		37EA95F52A612101008C32BE /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 37EA95F42A612101008C32BE /* AppDelegate.swift */; };
+		37EA95F82A612101008C32BE /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 37EA95F62A612101008C32BE /* Main.storyboard */; };
+		37EA96002A612101008C32BE /* LeetHub v2 Extension.appex in Embed Foundation Extensions */ = {isa = PBXBuildFile; fileRef = 37EA95FF2A612101008C32BE /* LeetHub v2 Extension.appex */; settings = {ATTRIBUTES = (RemoveHeadersOnCopy, ); }; };
+		37EA960A2A612101008C32BE /* LeetHub v2 Extension.appex in Embed Foundation Extensions */ = {isa = PBXBuildFile; fileRef = 37EA96092A612101008C32BE /* LeetHub v2 Extension.appex */; settings = {ATTRIBUTES = (RemoveHeadersOnCopy, ); }; };
+		37EA96102A612101008C32BE /* Main.html in Resources */ = {isa = PBXBuildFile; fileRef = 37EA95D32A612100008C32BE /* Main.html */; };
+		37EA96112A612101008C32BE /* Main.html in Resources */ = {isa = PBXBuildFile; fileRef = 37EA95D32A612100008C32BE /* Main.html */; };
+		37EA96122A612101008C32BE /* Icon.png in Resources */ = {isa = PBXBuildFile; fileRef = 37EA95D52A612100008C32BE /* Icon.png */; };
+		37EA96132A612101008C32BE /* Icon.png in Resources */ = {isa = PBXBuildFile; fileRef = 37EA95D52A612100008C32BE /* Icon.png */; };
+		37EA96142A612101008C32BE /* Style.css in Resources */ = {isa = PBXBuildFile; fileRef = 37EA95D62A612100008C32BE /* Style.css */; };
+		37EA96152A612101008C32BE /* Style.css in Resources */ = {isa = PBXBuildFile; fileRef = 37EA95D62A612100008C32BE /* Style.css */; };
+		37EA96162A612101008C32BE /* Script.js in Resources */ = {isa = PBXBuildFile; fileRef = 37EA95D72A612100008C32BE /* Script.js */; };
+		37EA96172A612101008C32BE /* Script.js in Resources */ = {isa = PBXBuildFile; fileRef = 37EA95D72A612100008C32BE /* Script.js */; };
+		37EA96182A612101008C32BE /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 37EA95D82A612100008C32BE /* ViewController.swift */; };
+		37EA96192A612101008C32BE /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 37EA95D82A612100008C32BE /* ViewController.swift */; };
+		37EA961A2A612101008C32BE /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 37EA95D92A612101008C32BE /* Assets.xcassets */; };
+		37EA961B2A612101008C32BE /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 37EA95D92A612101008C32BE /* Assets.xcassets */; };
+		37EA961C2A612101008C32BE /* SafariWebExtensionHandler.swift in Sources */ = {isa = PBXBuildFile; fileRef = 37EA95DB2A612101008C32BE /* SafariWebExtensionHandler.swift */; };
+		37EA961D2A612101008C32BE /* SafariWebExtensionHandler.swift in Sources */ = {isa = PBXBuildFile; fileRef = 37EA95DB2A612101008C32BE /* SafariWebExtensionHandler.swift */; };
+		37EA963A2A612101008C32BE /* popup.js in Resources */ = {isa = PBXBuildFile; fileRef = 37EA962F2A612101008C32BE /* popup.js */; };
+		37EA963B2A612101008C32BE /* LICENSE in Resources */ = {isa = PBXBuildFile; fileRef = 37EA96302A612101008C32BE /* LICENSE */; };
+		37EA963C2A612101008C32BE /* css in Resources */ = {isa = PBXBuildFile; fileRef = 37EA96312A612101008C32BE /* css */; };
+		37EA963D2A612101008C32BE /* popup.html in Resources */ = {isa = PBXBuildFile; fileRef = 37EA96322A612101008C32BE /* popup.html */; };
+		37EA963E2A612101008C32BE /* README.md in Resources */ = {isa = PBXBuildFile; fileRef = 37EA96332A612101008C32BE /* README.md */; };
+		37EA963F2A612101008C32BE /* package-lock.json in Resources */ = {isa = PBXBuildFile; fileRef = 37EA96342A612101008C32BE /* package-lock.json */; };
+		37EA96402A612101008C32BE /* package.json in Resources */ = {isa = PBXBuildFile; fileRef = 37EA96352A612101008C32BE /* package.json */; };
+		37EA96412A612101008C32BE /* scripts in Resources */ = {isa = PBXBuildFile; fileRef = 37EA96362A612101008C32BE /* scripts */; };
+		37EA96422A612101008C32BE /* welcome.html in Resources */ = {isa = PBXBuildFile; fileRef = 37EA96372A612101008C32BE /* welcome.html */; };
+		37EA96432A612101008C32BE /* manifest.json in Resources */ = {isa = PBXBuildFile; fileRef = 37EA96382A612101008C32BE /* manifest.json */; };
+		37EA96442A612101008C32BE /* assets in Resources */ = {isa = PBXBuildFile; fileRef = 37EA96392A612101008C32BE /* assets */; };
+		37EA96452A612101008C32BE /* popup.js in Resources */ = {isa = PBXBuildFile; fileRef = 37EA962F2A612101008C32BE /* popup.js */; };
+		37EA96462A612101008C32BE /* LICENSE in Resources */ = {isa = PBXBuildFile; fileRef = 37EA96302A612101008C32BE /* LICENSE */; };
+		37EA96472A612101008C32BE /* css in Resources */ = {isa = PBXBuildFile; fileRef = 37EA96312A612101008C32BE /* css */; };
+		37EA96482A612101008C32BE /* popup.html in Resources */ = {isa = PBXBuildFile; fileRef = 37EA96322A612101008C32BE /* popup.html */; };
+		37EA96492A612101008C32BE /* README.md in Resources */ = {isa = PBXBuildFile; fileRef = 37EA96332A612101008C32BE /* README.md */; };
+		37EA964A2A612101008C32BE /* package-lock.json in Resources */ = {isa = PBXBuildFile; fileRef = 37EA96342A612101008C32BE /* package-lock.json */; };
+		37EA964B2A612101008C32BE /* package.json in Resources */ = {isa = PBXBuildFile; fileRef = 37EA96352A612101008C32BE /* package.json */; };
+		37EA964C2A612101008C32BE /* scripts in Resources */ = {isa = PBXBuildFile; fileRef = 37EA96362A612101008C32BE /* scripts */; };
+		37EA964D2A612101008C32BE /* welcome.html in Resources */ = {isa = PBXBuildFile; fileRef = 37EA96372A612101008C32BE /* welcome.html */; };
+		37EA964E2A612101008C32BE /* manifest.json in Resources */ = {isa = PBXBuildFile; fileRef = 37EA96382A612101008C32BE /* manifest.json */; };
+		37EA964F2A612101008C32BE /* assets in Resources */ = {isa = PBXBuildFile; fileRef = 37EA96392A612101008C32BE /* assets */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
-		372347842A56AA67002BE596 /* PBXContainerItemProxy */ = {
+		37EA96012A612101008C32BE /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
-			containerPortal = 372347502A56AA66002BE596 /* Project object */;
+			containerPortal = 37EA95CD2A612100008C32BE /* Project object */;
 			proxyType = 1;
-			remoteGlobalIDString = 372347812A56AA67002BE596;
+			remoteGlobalIDString = 37EA95FE2A612101008C32BE;
 			remoteInfo = "LeetHub v2 Extension (iOS)";
 		};
-		3723478E2A56AA67002BE596 /* PBXContainerItemProxy */ = {
+		37EA960B2A612101008C32BE /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
-			containerPortal = 372347502A56AA66002BE596 /* Project object */;
+			containerPortal = 37EA95CD2A612100008C32BE /* Project object */;
 			proxyType = 1;
-			remoteGlobalIDString = 3723478B2A56AA67002BE596;
+			remoteGlobalIDString = 37EA96082A612101008C32BE;
 			remoteInfo = "LeetHub v2 Extension (macOS)";
 		};
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXCopyFilesBuildPhase section */
-		372347A62A56AA67002BE596 /* Embed Foundation Extensions */ = {
+		37EA96232A612101008C32BE /* Embed Foundation Extensions */ = {
 			isa = PBXCopyFilesBuildPhase;
 			buildActionMask = 2147483647;
 			dstPath = "";
 			dstSubfolderSpec = 13;
 			files = (
-				372347832A56AA67002BE596 /* LeetHub v2 Extension.appex in Embed Foundation Extensions */,
+				37EA96002A612101008C32BE /* LeetHub v2 Extension.appex in Embed Foundation Extensions */,
 			);
 			name = "Embed Foundation Extensions";
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		372347AD2A56AA67002BE596 /* Embed Foundation Extensions */ = {
+		37EA962A2A612101008C32BE /* Embed Foundation Extensions */ = {
 			isa = PBXCopyFilesBuildPhase;
 			buildActionMask = 2147483647;
 			dstPath = "";
 			dstSubfolderSpec = 13;
 			files = (
-				3723478D2A56AA67002BE596 /* LeetHub v2 Extension.appex in Embed Foundation Extensions */,
+				37EA960A2A612101008C32BE /* LeetHub v2 Extension.appex in Embed Foundation Extensions */,
 			);
 			name = "Embed Foundation Extensions";
 			runOnlyForDeploymentPostprocessing = 0;
@@ -96,65 +96,65 @@
 /* End PBXCopyFilesBuildPhase section */
 
 /* Begin PBXFileReference section */
-		372347572A56AA66002BE596 /* Base */ = {isa = PBXFileReference; lastKnownFileType = text.html; name = Base; path = ../Base.lproj/Main.html; sourceTree = "<group>"; };
-		372347582A56AA66002BE596 /* Icon.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Icon.png; sourceTree = "<group>"; };
-		372347592A56AA66002BE596 /* Style.css */ = {isa = PBXFileReference; lastKnownFileType = text.css; path = Style.css; sourceTree = "<group>"; };
-		3723475A2A56AA66002BE596 /* Script.js */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.javascript; path = Script.js; sourceTree = "<group>"; };
-		3723475B2A56AA66002BE596 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
-		3723475C2A56AA67002BE596 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
-		3723475E2A56AA67002BE596 /* SafariWebExtensionHandler.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SafariWebExtensionHandler.swift; sourceTree = "<group>"; };
-		372347632A56AA67002BE596 /* LeetHub v2.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "LeetHub v2.app"; sourceTree = BUILT_PRODUCTS_DIR; };
-		372347662A56AA67002BE596 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
-		372347682A56AA67002BE596 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
-		3723476B2A56AA67002BE596 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
-		3723476E2A56AA67002BE596 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
-		372347702A56AA67002BE596 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		372347752A56AA67002BE596 /* LeetHub v2.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "LeetHub v2.app"; sourceTree = BUILT_PRODUCTS_DIR; };
-		372347772A56AA67002BE596 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
-		3723477A2A56AA67002BE596 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
-		3723477C2A56AA67002BE596 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		3723477D2A56AA67002BE596 /* LeetHub v2.entitlements */ = {isa = PBXFileReference; lastKnownFileType = text.plist.entitlements; path = "LeetHub v2.entitlements"; sourceTree = "<group>"; };
-		372347822A56AA67002BE596 /* LeetHub v2 Extension.appex */ = {isa = PBXFileReference; explicitFileType = "wrapper.app-extension"; includeInIndex = 0; path = "LeetHub v2 Extension.appex"; sourceTree = BUILT_PRODUCTS_DIR; };
-		372347872A56AA67002BE596 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		3723478C2A56AA67002BE596 /* LeetHub v2 Extension.appex */ = {isa = PBXFileReference; explicitFileType = "wrapper.app-extension"; includeInIndex = 0; path = "LeetHub v2 Extension.appex"; sourceTree = BUILT_PRODUCTS_DIR; };
-		372347912A56AA67002BE596 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		372347922A56AA67002BE596 /* LeetHub v2.entitlements */ = {isa = PBXFileReference; lastKnownFileType = text.plist.entitlements; path = "LeetHub v2.entitlements"; sourceTree = "<group>"; };
-		372347B22A56AA67002BE596 /* popup.js */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.javascript; name = popup.js; path = "../../LeetHub-2.0/popup.js"; sourceTree = "<group>"; };
-		372347B32A56AA67002BE596 /* LICENSE */ = {isa = PBXFileReference; lastKnownFileType = text; name = LICENSE; path = "../../LeetHub-2.0/LICENSE"; sourceTree = "<group>"; };
-		372347B42A56AA67002BE596 /* css */ = {isa = PBXFileReference; lastKnownFileType = folder; name = css; path = "../../LeetHub-2.0/css"; sourceTree = "<group>"; };
-		372347B52A56AA67002BE596 /* popup.html */ = {isa = PBXFileReference; lastKnownFileType = text.html; name = popup.html; path = "../../LeetHub-2.0/popup.html"; sourceTree = "<group>"; };
-		372347B62A56AA67002BE596 /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; name = README.md; path = "../../LeetHub-2.0/README.md"; sourceTree = "<group>"; };
-		372347B72A56AA67002BE596 /* package-lock.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; name = "package-lock.json"; path = "../../LeetHub-2.0/package-lock.json"; sourceTree = "<group>"; };
-		372347B82A56AA67002BE596 /* package.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; name = package.json; path = "../../LeetHub-2.0/package.json"; sourceTree = "<group>"; };
-		372347B92A56AA67002BE596 /* scripts */ = {isa = PBXFileReference; lastKnownFileType = folder; name = scripts; path = "../../LeetHub-2.0/scripts"; sourceTree = "<group>"; };
-		372347BA2A56AA67002BE596 /* welcome.html */ = {isa = PBXFileReference; lastKnownFileType = text.html; name = welcome.html; path = "../../LeetHub-2.0/welcome.html"; sourceTree = "<group>"; };
-		372347BB2A56AA67002BE596 /* manifest.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; name = manifest.json; path = "../../LeetHub-2.0/manifest.json"; sourceTree = "<group>"; };
-		372347BC2A56AA67002BE596 /* assets */ = {isa = PBXFileReference; lastKnownFileType = folder; name = assets; path = "../../LeetHub-2.0/assets"; sourceTree = "<group>"; };
+		37EA95D42A612100008C32BE /* Base */ = {isa = PBXFileReference; lastKnownFileType = text.html; name = Base; path = ../Base.lproj/Main.html; sourceTree = "<group>"; };
+		37EA95D52A612100008C32BE /* Icon.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Icon.png; sourceTree = "<group>"; };
+		37EA95D62A612100008C32BE /* Style.css */ = {isa = PBXFileReference; lastKnownFileType = text.css; path = Style.css; sourceTree = "<group>"; };
+		37EA95D72A612100008C32BE /* Script.js */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.javascript; path = Script.js; sourceTree = "<group>"; };
+		37EA95D82A612100008C32BE /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
+		37EA95D92A612101008C32BE /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
+		37EA95DB2A612101008C32BE /* SafariWebExtensionHandler.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SafariWebExtensionHandler.swift; sourceTree = "<group>"; };
+		37EA95E02A612101008C32BE /* LeetHub v2.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "LeetHub v2.app"; sourceTree = BUILT_PRODUCTS_DIR; };
+		37EA95E32A612101008C32BE /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
+		37EA95E52A612101008C32BE /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
+		37EA95E82A612101008C32BE /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
+		37EA95EB2A612101008C32BE /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
+		37EA95ED2A612101008C32BE /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		37EA95F22A612101008C32BE /* LeetHub v2.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "LeetHub v2.app"; sourceTree = BUILT_PRODUCTS_DIR; };
+		37EA95F42A612101008C32BE /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
+		37EA95F72A612101008C32BE /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
+		37EA95F92A612101008C32BE /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		37EA95FA2A612101008C32BE /* LeetHub v2.entitlements */ = {isa = PBXFileReference; lastKnownFileType = text.plist.entitlements; path = "LeetHub v2.entitlements"; sourceTree = "<group>"; };
+		37EA95FF2A612101008C32BE /* LeetHub v2 Extension.appex */ = {isa = PBXFileReference; explicitFileType = "wrapper.app-extension"; includeInIndex = 0; path = "LeetHub v2 Extension.appex"; sourceTree = BUILT_PRODUCTS_DIR; };
+		37EA96042A612101008C32BE /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		37EA96092A612101008C32BE /* LeetHub v2 Extension.appex */ = {isa = PBXFileReference; explicitFileType = "wrapper.app-extension"; includeInIndex = 0; path = "LeetHub v2 Extension.appex"; sourceTree = BUILT_PRODUCTS_DIR; };
+		37EA960E2A612101008C32BE /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		37EA960F2A612101008C32BE /* LeetHub v2.entitlements */ = {isa = PBXFileReference; lastKnownFileType = text.plist.entitlements; path = "LeetHub v2.entitlements"; sourceTree = "<group>"; };
+		37EA962F2A612101008C32BE /* popup.js */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.javascript; name = popup.js; path = "../../LeetHub-2.0/popup.js"; sourceTree = "<group>"; };
+		37EA96302A612101008C32BE /* LICENSE */ = {isa = PBXFileReference; lastKnownFileType = text; name = LICENSE; path = "../../LeetHub-2.0/LICENSE"; sourceTree = "<group>"; };
+		37EA96312A612101008C32BE /* css */ = {isa = PBXFileReference; lastKnownFileType = folder; name = css; path = "../../LeetHub-2.0/css"; sourceTree = "<group>"; };
+		37EA96322A612101008C32BE /* popup.html */ = {isa = PBXFileReference; lastKnownFileType = text.html; name = popup.html; path = "../../LeetHub-2.0/popup.html"; sourceTree = "<group>"; };
+		37EA96332A612101008C32BE /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; name = README.md; path = "../../LeetHub-2.0/README.md"; sourceTree = "<group>"; };
+		37EA96342A612101008C32BE /* package-lock.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; name = "package-lock.json"; path = "../../LeetHub-2.0/package-lock.json"; sourceTree = "<group>"; };
+		37EA96352A612101008C32BE /* package.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; name = package.json; path = "../../LeetHub-2.0/package.json"; sourceTree = "<group>"; };
+		37EA96362A612101008C32BE /* scripts */ = {isa = PBXFileReference; lastKnownFileType = folder; name = scripts; path = "../../LeetHub-2.0/scripts"; sourceTree = "<group>"; };
+		37EA96372A612101008C32BE /* welcome.html */ = {isa = PBXFileReference; lastKnownFileType = text.html; name = welcome.html; path = "../../LeetHub-2.0/welcome.html"; sourceTree = "<group>"; };
+		37EA96382A612101008C32BE /* manifest.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; name = manifest.json; path = "../../LeetHub-2.0/manifest.json"; sourceTree = "<group>"; };
+		37EA96392A612101008C32BE /* assets */ = {isa = PBXFileReference; lastKnownFileType = folder; name = assets; path = "../../LeetHub-2.0/assets"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
-		372347602A56AA67002BE596 /* Frameworks */ = {
+		37EA95DD2A612101008C32BE /* Frameworks */ = {
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		372347722A56AA67002BE596 /* Frameworks */ = {
+		37EA95EF2A612101008C32BE /* Frameworks */ = {
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		3723477F2A56AA67002BE596 /* Frameworks */ = {
+		37EA95FC2A612101008C32BE /* Frameworks */ = {
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		372347892A56AA67002BE596 /* Frameworks */ = {
+		37EA96062A612101008C32BE /* Frameworks */ = {
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -164,114 +164,114 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
-		3723474F2A56AA66002BE596 = {
+		37EA95CC2A612100008C32BE = {
 			isa = PBXGroup;
 			children = (
-				372347542A56AA66002BE596 /* Shared (App) */,
-				3723475D2A56AA67002BE596 /* Shared (Extension) */,
-				372347652A56AA67002BE596 /* iOS (App) */,
-				372347762A56AA67002BE596 /* macOS (App) */,
-				372347862A56AA67002BE596 /* iOS (Extension) */,
-				372347902A56AA67002BE596 /* macOS (Extension) */,
-				372347642A56AA67002BE596 /* Products */,
+				37EA95D12A612100008C32BE /* Shared (App) */,
+				37EA95DA2A612101008C32BE /* Shared (Extension) */,
+				37EA95E22A612101008C32BE /* iOS (App) */,
+				37EA95F32A612101008C32BE /* macOS (App) */,
+				37EA96032A612101008C32BE /* iOS (Extension) */,
+				37EA960D2A612101008C32BE /* macOS (Extension) */,
+				37EA95E12A612101008C32BE /* Products */,
 			);
 			sourceTree = "<group>";
 		};
-		372347542A56AA66002BE596 /* Shared (App) */ = {
+		37EA95D12A612100008C32BE /* Shared (App) */ = {
 			isa = PBXGroup;
 			children = (
-				3723475B2A56AA66002BE596 /* ViewController.swift */,
-				3723475C2A56AA67002BE596 /* Assets.xcassets */,
-				372347552A56AA66002BE596 /* Resources */,
+				37EA95D82A612100008C32BE /* ViewController.swift */,
+				37EA95D92A612101008C32BE /* Assets.xcassets */,
+				37EA95D22A612100008C32BE /* Resources */,
 			);
 			path = "Shared (App)";
 			sourceTree = "<group>";
 		};
-		372347552A56AA66002BE596 /* Resources */ = {
+		37EA95D22A612100008C32BE /* Resources */ = {
 			isa = PBXGroup;
 			children = (
-				372347562A56AA66002BE596 /* Main.html */,
-				372347582A56AA66002BE596 /* Icon.png */,
-				372347592A56AA66002BE596 /* Style.css */,
-				3723475A2A56AA66002BE596 /* Script.js */,
+				37EA95D32A612100008C32BE /* Main.html */,
+				37EA95D52A612100008C32BE /* Icon.png */,
+				37EA95D62A612100008C32BE /* Style.css */,
+				37EA95D72A612100008C32BE /* Script.js */,
 			);
 			path = Resources;
 			sourceTree = "<group>";
 		};
-		3723475D2A56AA67002BE596 /* Shared (Extension) */ = {
+		37EA95DA2A612101008C32BE /* Shared (Extension) */ = {
 			isa = PBXGroup;
 			children = (
-				372347B12A56AA67002BE596 /* Resources */,
-				3723475E2A56AA67002BE596 /* SafariWebExtensionHandler.swift */,
+				37EA962E2A612101008C32BE /* Resources */,
+				37EA95DB2A612101008C32BE /* SafariWebExtensionHandler.swift */,
 			);
 			path = "Shared (Extension)";
 			sourceTree = "<group>";
 		};
-		372347642A56AA67002BE596 /* Products */ = {
+		37EA95E12A612101008C32BE /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				372347632A56AA67002BE596 /* LeetHub v2.app */,
-				372347752A56AA67002BE596 /* LeetHub v2.app */,
-				372347822A56AA67002BE596 /* LeetHub v2 Extension.appex */,
-				3723478C2A56AA67002BE596 /* LeetHub v2 Extension.appex */,
+				37EA95E02A612101008C32BE /* LeetHub v2.app */,
+				37EA95F22A612101008C32BE /* LeetHub v2.app */,
+				37EA95FF2A612101008C32BE /* LeetHub v2 Extension.appex */,
+				37EA96092A612101008C32BE /* LeetHub v2 Extension.appex */,
 			);
 			name = Products;
 			sourceTree = "<group>";
 		};
-		372347652A56AA67002BE596 /* iOS (App) */ = {
+		37EA95E22A612101008C32BE /* iOS (App) */ = {
 			isa = PBXGroup;
 			children = (
-				372347662A56AA67002BE596 /* AppDelegate.swift */,
-				372347682A56AA67002BE596 /* SceneDelegate.swift */,
-				3723476A2A56AA67002BE596 /* LaunchScreen.storyboard */,
-				3723476D2A56AA67002BE596 /* Main.storyboard */,
-				372347702A56AA67002BE596 /* Info.plist */,
+				37EA95E32A612101008C32BE /* AppDelegate.swift */,
+				37EA95E52A612101008C32BE /* SceneDelegate.swift */,
+				37EA95E72A612101008C32BE /* LaunchScreen.storyboard */,
+				37EA95EA2A612101008C32BE /* Main.storyboard */,
+				37EA95ED2A612101008C32BE /* Info.plist */,
 			);
 			path = "iOS (App)";
 			sourceTree = "<group>";
 		};
-		372347762A56AA67002BE596 /* macOS (App) */ = {
+		37EA95F32A612101008C32BE /* macOS (App) */ = {
 			isa = PBXGroup;
 			children = (
-				372347772A56AA67002BE596 /* AppDelegate.swift */,
-				372347792A56AA67002BE596 /* Main.storyboard */,
-				3723477C2A56AA67002BE596 /* Info.plist */,
-				3723477D2A56AA67002BE596 /* LeetHub v2.entitlements */,
+				37EA95F42A612101008C32BE /* AppDelegate.swift */,
+				37EA95F62A612101008C32BE /* Main.storyboard */,
+				37EA95F92A612101008C32BE /* Info.plist */,
+				37EA95FA2A612101008C32BE /* LeetHub v2.entitlements */,
 			);
 			path = "macOS (App)";
 			sourceTree = "<group>";
 		};
-		372347862A56AA67002BE596 /* iOS (Extension) */ = {
+		37EA96032A612101008C32BE /* iOS (Extension) */ = {
 			isa = PBXGroup;
 			children = (
-				372347872A56AA67002BE596 /* Info.plist */,
+				37EA96042A612101008C32BE /* Info.plist */,
 			);
 			path = "iOS (Extension)";
 			sourceTree = "<group>";
 		};
-		372347902A56AA67002BE596 /* macOS (Extension) */ = {
+		37EA960D2A612101008C32BE /* macOS (Extension) */ = {
 			isa = PBXGroup;
 			children = (
-				372347912A56AA67002BE596 /* Info.plist */,
-				372347922A56AA67002BE596 /* LeetHub v2.entitlements */,
+				37EA960E2A612101008C32BE /* Info.plist */,
+				37EA960F2A612101008C32BE /* LeetHub v2.entitlements */,
 			);
 			path = "macOS (Extension)";
 			sourceTree = "<group>";
 		};
-		372347B12A56AA67002BE596 /* Resources */ = {
+		37EA962E2A612101008C32BE /* Resources */ = {
 			isa = PBXGroup;
 			children = (
-				372347B22A56AA67002BE596 /* popup.js */,
-				372347B32A56AA67002BE596 /* LICENSE */,
-				372347B42A56AA67002BE596 /* css */,
-				372347B52A56AA67002BE596 /* popup.html */,
-				372347B62A56AA67002BE596 /* README.md */,
-				372347B72A56AA67002BE596 /* package-lock.json */,
-				372347B82A56AA67002BE596 /* package.json */,
-				372347B92A56AA67002BE596 /* scripts */,
-				372347BA2A56AA67002BE596 /* welcome.html */,
-				372347BB2A56AA67002BE596 /* manifest.json */,
-				372347BC2A56AA67002BE596 /* assets */,
+				37EA962F2A612101008C32BE /* popup.js */,
+				37EA96302A612101008C32BE /* LICENSE */,
+				37EA96312A612101008C32BE /* css */,
+				37EA96322A612101008C32BE /* popup.html */,
+				37EA96332A612101008C32BE /* README.md */,
+				37EA96342A612101008C32BE /* package-lock.json */,
+				37EA96352A612101008C32BE /* package.json */,
+				37EA96362A612101008C32BE /* scripts */,
+				37EA96372A612101008C32BE /* welcome.html */,
+				37EA96382A612101008C32BE /* manifest.json */,
+				37EA96392A612101008C32BE /* assets */,
 			);
 			name = Resources;
 			path = "Shared (Extension)";
@@ -280,51 +280,51 @@
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		372347622A56AA67002BE596 /* LeetHub v2 (iOS) */ = {
+		37EA95DF2A612101008C32BE /* LeetHub v2 (iOS) */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 372347A72A56AA67002BE596 /* Build configuration list for PBXNativeTarget "LeetHub v2 (iOS)" */;
+			buildConfigurationList = 37EA96242A612101008C32BE /* Build configuration list for PBXNativeTarget "LeetHub v2 (iOS)" */;
 			buildPhases = (
-				3723475F2A56AA67002BE596 /* Sources */,
-				372347602A56AA67002BE596 /* Frameworks */,
-				372347612A56AA67002BE596 /* Resources */,
-				372347A62A56AA67002BE596 /* Embed Foundation Extensions */,
+				37EA95DC2A612101008C32BE /* Sources */,
+				37EA95DD2A612101008C32BE /* Frameworks */,
+				37EA95DE2A612101008C32BE /* Resources */,
+				37EA96232A612101008C32BE /* Embed Foundation Extensions */,
 			);
 			buildRules = (
 			);
 			dependencies = (
-				372347852A56AA67002BE596 /* PBXTargetDependency */,
+				37EA96022A612101008C32BE /* PBXTargetDependency */,
 			);
 			name = "LeetHub v2 (iOS)";
 			productName = "LeetHub v2 (iOS)";
-			productReference = 372347632A56AA67002BE596 /* LeetHub v2.app */;
+			productReference = 37EA95E02A612101008C32BE /* LeetHub v2.app */;
 			productType = "com.apple.product-type.application";
 		};
-		372347742A56AA67002BE596 /* LeetHub v2 (macOS) */ = {
+		37EA95F12A612101008C32BE /* LeetHub v2 (macOS) */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 372347AE2A56AA67002BE596 /* Build configuration list for PBXNativeTarget "LeetHub v2 (macOS)" */;
+			buildConfigurationList = 37EA962B2A612101008C32BE /* Build configuration list for PBXNativeTarget "LeetHub v2 (macOS)" */;
 			buildPhases = (
-				372347712A56AA67002BE596 /* Sources */,
-				372347722A56AA67002BE596 /* Frameworks */,
-				372347732A56AA67002BE596 /* Resources */,
-				372347AD2A56AA67002BE596 /* Embed Foundation Extensions */,
+				37EA95EE2A612101008C32BE /* Sources */,
+				37EA95EF2A612101008C32BE /* Frameworks */,
+				37EA95F02A612101008C32BE /* Resources */,
+				37EA962A2A612101008C32BE /* Embed Foundation Extensions */,
 			);
 			buildRules = (
 			);
 			dependencies = (
-				3723478F2A56AA67002BE596 /* PBXTargetDependency */,
+				37EA960C2A612101008C32BE /* PBXTargetDependency */,
 			);
 			name = "LeetHub v2 (macOS)";
 			productName = "LeetHub v2 (macOS)";
-			productReference = 372347752A56AA67002BE596 /* LeetHub v2.app */;
+			productReference = 37EA95F22A612101008C32BE /* LeetHub v2.app */;
 			productType = "com.apple.product-type.application";
 		};
-		372347812A56AA67002BE596 /* LeetHub v2 Extension (iOS) */ = {
+		37EA95FE2A612101008C32BE /* LeetHub v2 Extension (iOS) */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 372347A32A56AA67002BE596 /* Build configuration list for PBXNativeTarget "LeetHub v2 Extension (iOS)" */;
+			buildConfigurationList = 37EA96202A612101008C32BE /* Build configuration list for PBXNativeTarget "LeetHub v2 Extension (iOS)" */;
 			buildPhases = (
-				3723477E2A56AA67002BE596 /* Sources */,
-				3723477F2A56AA67002BE596 /* Frameworks */,
-				372347802A56AA67002BE596 /* Resources */,
+				37EA95FB2A612101008C32BE /* Sources */,
+				37EA95FC2A612101008C32BE /* Frameworks */,
+				37EA95FD2A612101008C32BE /* Resources */,
 			);
 			buildRules = (
 			);
@@ -332,16 +332,16 @@
 			);
 			name = "LeetHub v2 Extension (iOS)";
 			productName = "LeetHub v2 Extension (iOS)";
-			productReference = 372347822A56AA67002BE596 /* LeetHub v2 Extension.appex */;
+			productReference = 37EA95FF2A612101008C32BE /* LeetHub v2 Extension.appex */;
 			productType = "com.apple.product-type.app-extension";
 		};
-		3723478B2A56AA67002BE596 /* LeetHub v2 Extension (macOS) */ = {
+		37EA96082A612101008C32BE /* LeetHub v2 Extension (macOS) */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 372347AA2A56AA67002BE596 /* Build configuration list for PBXNativeTarget "LeetHub v2 Extension (macOS)" */;
+			buildConfigurationList = 37EA96272A612101008C32BE /* Build configuration list for PBXNativeTarget "LeetHub v2 Extension (macOS)" */;
 			buildPhases = (
-				372347882A56AA67002BE596 /* Sources */,
-				372347892A56AA67002BE596 /* Frameworks */,
-				3723478A2A56AA67002BE596 /* Resources */,
+				37EA96052A612101008C32BE /* Sources */,
+				37EA96062A612101008C32BE /* Frameworks */,
+				37EA96072A612101008C32BE /* Resources */,
 			);
 			buildRules = (
 			);
@@ -349,34 +349,34 @@
 			);
 			name = "LeetHub v2 Extension (macOS)";
 			productName = "LeetHub v2 Extension (macOS)";
-			productReference = 3723478C2A56AA67002BE596 /* LeetHub v2 Extension.appex */;
+			productReference = 37EA96092A612101008C32BE /* LeetHub v2 Extension.appex */;
 			productType = "com.apple.product-type.app-extension";
 		};
 /* End PBXNativeTarget section */
 
 /* Begin PBXProject section */
-		372347502A56AA66002BE596 /* Project object */ = {
+		37EA95CD2A612100008C32BE /* Project object */ = {
 			isa = PBXProject;
 			attributes = {
 				BuildIndependentTargetsInParallel = 1;
 				LastSwiftUpdateCheck = 1430;
 				LastUpgradeCheck = 1430;
 				TargetAttributes = {
-					372347622A56AA67002BE596 = {
+					37EA95DF2A612101008C32BE = {
 						CreatedOnToolsVersion = 14.3.1;
 					};
-					372347742A56AA67002BE596 = {
+					37EA95F12A612101008C32BE = {
 						CreatedOnToolsVersion = 14.3.1;
 					};
-					372347812A56AA67002BE596 = {
+					37EA95FE2A612101008C32BE = {
 						CreatedOnToolsVersion = 14.3.1;
 					};
-					3723478B2A56AA67002BE596 = {
+					37EA96082A612101008C32BE = {
 						CreatedOnToolsVersion = 14.3.1;
 					};
 				};
 			};
-			buildConfigurationList = 372347532A56AA66002BE596 /* Build configuration list for PBXProject "LeetHub v2" */;
+			buildConfigurationList = 37EA95D02A612100008C32BE /* Build configuration list for PBXProject "LeetHub v2" */;
 			compatibilityVersion = "Xcode 14.0";
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
@@ -384,165 +384,165 @@
 				en,
 				Base,
 			);
-			mainGroup = 3723474F2A56AA66002BE596;
-			productRefGroup = 372347642A56AA67002BE596 /* Products */;
+			mainGroup = 37EA95CC2A612100008C32BE;
+			productRefGroup = 37EA95E12A612101008C32BE /* Products */;
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				372347622A56AA67002BE596 /* LeetHub v2 (iOS) */,
-				372347742A56AA67002BE596 /* LeetHub v2 (macOS) */,
-				372347812A56AA67002BE596 /* LeetHub v2 Extension (iOS) */,
-				3723478B2A56AA67002BE596 /* LeetHub v2 Extension (macOS) */,
+				37EA95DF2A612101008C32BE /* LeetHub v2 (iOS) */,
+				37EA95F12A612101008C32BE /* LeetHub v2 (macOS) */,
+				37EA95FE2A612101008C32BE /* LeetHub v2 Extension (iOS) */,
+				37EA96082A612101008C32BE /* LeetHub v2 Extension (macOS) */,
 			);
 		};
 /* End PBXProject section */
 
 /* Begin PBXResourcesBuildPhase section */
-		372347612A56AA67002BE596 /* Resources */ = {
+		37EA95DE2A612101008C32BE /* Resources */ = {
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				372347952A56AA67002BE596 /* Icon.png in Resources */,
-				3723476C2A56AA67002BE596 /* LaunchScreen.storyboard in Resources */,
-				372347932A56AA67002BE596 /* Main.html in Resources */,
-				372347992A56AA67002BE596 /* Script.js in Resources */,
-				3723479D2A56AA67002BE596 /* Assets.xcassets in Resources */,
-				3723476F2A56AA67002BE596 /* Main.storyboard in Resources */,
-				372347972A56AA67002BE596 /* Style.css in Resources */,
+				37EA96122A612101008C32BE /* Icon.png in Resources */,
+				37EA95E92A612101008C32BE /* LaunchScreen.storyboard in Resources */,
+				37EA96102A612101008C32BE /* Main.html in Resources */,
+				37EA96162A612101008C32BE /* Script.js in Resources */,
+				37EA961A2A612101008C32BE /* Assets.xcassets in Resources */,
+				37EA95EC2A612101008C32BE /* Main.storyboard in Resources */,
+				37EA96142A612101008C32BE /* Style.css in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		372347732A56AA67002BE596 /* Resources */ = {
+		37EA95F02A612101008C32BE /* Resources */ = {
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				372347962A56AA67002BE596 /* Icon.png in Resources */,
-				372347982A56AA67002BE596 /* Style.css in Resources */,
-				3723477B2A56AA67002BE596 /* Main.storyboard in Resources */,
-				3723479A2A56AA67002BE596 /* Script.js in Resources */,
-				3723479E2A56AA67002BE596 /* Assets.xcassets in Resources */,
-				372347942A56AA67002BE596 /* Main.html in Resources */,
+				37EA96132A612101008C32BE /* Icon.png in Resources */,
+				37EA96152A612101008C32BE /* Style.css in Resources */,
+				37EA95F82A612101008C32BE /* Main.storyboard in Resources */,
+				37EA96172A612101008C32BE /* Script.js in Resources */,
+				37EA961B2A612101008C32BE /* Assets.xcassets in Resources */,
+				37EA96112A612101008C32BE /* Main.html in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		372347802A56AA67002BE596 /* Resources */ = {
+		37EA95FD2A612101008C32BE /* Resources */ = {
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				372347CA2A56AA67002BE596 /* css in Resources */,
-				372347CB2A56AA67002BE596 /* popup.html in Resources */,
-				372347D12A56AA67002BE596 /* manifest.json in Resources */,
-				372347CC2A56AA67002BE596 /* README.md in Resources */,
-				372347C92A56AA67002BE596 /* LICENSE in Resources */,
-				372347C82A56AA67002BE596 /* popup.js in Resources */,
-				372347CE2A56AA67002BE596 /* package.json in Resources */,
-				372347D02A56AA67002BE596 /* welcome.html in Resources */,
-				372347CD2A56AA67002BE596 /* package-lock.json in Resources */,
-				372347CF2A56AA67002BE596 /* scripts in Resources */,
-				372347D22A56AA67002BE596 /* assets in Resources */,
+				37EA96472A612101008C32BE /* css in Resources */,
+				37EA96482A612101008C32BE /* popup.html in Resources */,
+				37EA964E2A612101008C32BE /* manifest.json in Resources */,
+				37EA96492A612101008C32BE /* README.md in Resources */,
+				37EA96462A612101008C32BE /* LICENSE in Resources */,
+				37EA96452A612101008C32BE /* popup.js in Resources */,
+				37EA964B2A612101008C32BE /* package.json in Resources */,
+				37EA964D2A612101008C32BE /* welcome.html in Resources */,
+				37EA964A2A612101008C32BE /* package-lock.json in Resources */,
+				37EA964C2A612101008C32BE /* scripts in Resources */,
+				37EA964F2A612101008C32BE /* assets in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		3723478A2A56AA67002BE596 /* Resources */ = {
+		37EA96072A612101008C32BE /* Resources */ = {
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				372347BF2A56AA67002BE596 /* css in Resources */,
-				372347C02A56AA67002BE596 /* popup.html in Resources */,
-				372347C62A56AA67002BE596 /* manifest.json in Resources */,
-				372347C12A56AA67002BE596 /* README.md in Resources */,
-				372347BE2A56AA67002BE596 /* LICENSE in Resources */,
-				372347BD2A56AA67002BE596 /* popup.js in Resources */,
-				372347C32A56AA67002BE596 /* package.json in Resources */,
-				372347C52A56AA67002BE596 /* welcome.html in Resources */,
-				372347C22A56AA67002BE596 /* package-lock.json in Resources */,
-				372347C42A56AA67002BE596 /* scripts in Resources */,
-				372347C72A56AA67002BE596 /* assets in Resources */,
+				37EA963C2A612101008C32BE /* css in Resources */,
+				37EA963D2A612101008C32BE /* popup.html in Resources */,
+				37EA96432A612101008C32BE /* manifest.json in Resources */,
+				37EA963E2A612101008C32BE /* README.md in Resources */,
+				37EA963B2A612101008C32BE /* LICENSE in Resources */,
+				37EA963A2A612101008C32BE /* popup.js in Resources */,
+				37EA96402A612101008C32BE /* package.json in Resources */,
+				37EA96422A612101008C32BE /* welcome.html in Resources */,
+				37EA963F2A612101008C32BE /* package-lock.json in Resources */,
+				37EA96412A612101008C32BE /* scripts in Resources */,
+				37EA96442A612101008C32BE /* assets in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXResourcesBuildPhase section */
 
 /* Begin PBXSourcesBuildPhase section */
-		3723475F2A56AA67002BE596 /* Sources */ = {
+		37EA95DC2A612101008C32BE /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				3723479B2A56AA67002BE596 /* ViewController.swift in Sources */,
-				372347672A56AA67002BE596 /* AppDelegate.swift in Sources */,
-				372347692A56AA67002BE596 /* SceneDelegate.swift in Sources */,
+				37EA96182A612101008C32BE /* ViewController.swift in Sources */,
+				37EA95E42A612101008C32BE /* AppDelegate.swift in Sources */,
+				37EA95E62A612101008C32BE /* SceneDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		372347712A56AA67002BE596 /* Sources */ = {
+		37EA95EE2A612101008C32BE /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				3723479C2A56AA67002BE596 /* ViewController.swift in Sources */,
-				372347782A56AA67002BE596 /* AppDelegate.swift in Sources */,
+				37EA96192A612101008C32BE /* ViewController.swift in Sources */,
+				37EA95F52A612101008C32BE /* AppDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		3723477E2A56AA67002BE596 /* Sources */ = {
+		37EA95FB2A612101008C32BE /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				3723479F2A56AA67002BE596 /* SafariWebExtensionHandler.swift in Sources */,
+				37EA961C2A612101008C32BE /* SafariWebExtensionHandler.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		372347882A56AA67002BE596 /* Sources */ = {
+		37EA96052A612101008C32BE /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				372347A02A56AA67002BE596 /* SafariWebExtensionHandler.swift in Sources */,
+				37EA961D2A612101008C32BE /* SafariWebExtensionHandler.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXSourcesBuildPhase section */
 
 /* Begin PBXTargetDependency section */
-		372347852A56AA67002BE596 /* PBXTargetDependency */ = {
+		37EA96022A612101008C32BE /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
-			target = 372347812A56AA67002BE596 /* LeetHub v2 Extension (iOS) */;
-			targetProxy = 372347842A56AA67002BE596 /* PBXContainerItemProxy */;
+			target = 37EA95FE2A612101008C32BE /* LeetHub v2 Extension (iOS) */;
+			targetProxy = 37EA96012A612101008C32BE /* PBXContainerItemProxy */;
 		};
-		3723478F2A56AA67002BE596 /* PBXTargetDependency */ = {
+		37EA960C2A612101008C32BE /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
-			target = 3723478B2A56AA67002BE596 /* LeetHub v2 Extension (macOS) */;
-			targetProxy = 3723478E2A56AA67002BE596 /* PBXContainerItemProxy */;
+			target = 37EA96082A612101008C32BE /* LeetHub v2 Extension (macOS) */;
+			targetProxy = 37EA960B2A612101008C32BE /* PBXContainerItemProxy */;
 		};
 /* End PBXTargetDependency section */
 
 /* Begin PBXVariantGroup section */
-		372347562A56AA66002BE596 /* Main.html */ = {
+		37EA95D32A612100008C32BE /* Main.html */ = {
 			isa = PBXVariantGroup;
 			children = (
-				372347572A56AA66002BE596 /* Base */,
+				37EA95D42A612100008C32BE /* Base */,
 			);
 			name = Main.html;
 			sourceTree = "<group>";
 		};
-		3723476A2A56AA67002BE596 /* LaunchScreen.storyboard */ = {
+		37EA95E72A612101008C32BE /* LaunchScreen.storyboard */ = {
 			isa = PBXVariantGroup;
 			children = (
-				3723476B2A56AA67002BE596 /* Base */,
+				37EA95E82A612101008C32BE /* Base */,
 			);
 			name = LaunchScreen.storyboard;
 			sourceTree = "<group>";
 		};
-		3723476D2A56AA67002BE596 /* Main.storyboard */ = {
+		37EA95EA2A612101008C32BE /* Main.storyboard */ = {
 			isa = PBXVariantGroup;
 			children = (
-				3723476E2A56AA67002BE596 /* Base */,
+				37EA95EB2A612101008C32BE /* Base */,
 			);
 			name = Main.storyboard;
 			sourceTree = "<group>";
 		};
-		372347792A56AA67002BE596 /* Main.storyboard */ = {
+		37EA95F62A612101008C32BE /* Main.storyboard */ = {
 			isa = PBXVariantGroup;
 			children = (
-				3723477A2A56AA67002BE596 /* Base */,
+				37EA95F72A612101008C32BE /* Base */,
 			);
 			name = Main.storyboard;
 			sourceTree = "<group>";
@@ -550,7 +550,7 @@
 /* End PBXVariantGroup section */
 
 /* Begin XCBuildConfiguration section */
-		372347A12A56AA67002BE596 /* Debug */ = {
+		37EA961E2A612101008C32BE /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
@@ -608,7 +608,7 @@
 			};
 			name = Debug;
 		};
-		372347A22A56AA67002BE596 /* Release */ = {
+		37EA961F2A612101008C32BE /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
@@ -659,7 +659,7 @@
 			};
 			name = Release;
 		};
-		372347A42A56AA67002BE596 /* Debug */ = {
+		37EA96212A612101008C32BE /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				CODE_SIGN_STYLE = Automatic;
@@ -689,7 +689,7 @@
 			};
 			name = Debug;
 		};
-		372347A52A56AA67002BE596 /* Release */ = {
+		37EA96222A612101008C32BE /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				CODE_SIGN_STYLE = Automatic;
@@ -720,7 +720,7 @@
 			};
 			name = Release;
 		};
-		372347A82A56AA67002BE596 /* Debug */ = {
+		37EA96252A612101008C32BE /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
@@ -757,7 +757,7 @@
 			};
 			name = Debug;
 		};
-		372347A92A56AA67002BE596 /* Release */ = {
+		37EA96262A612101008C32BE /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
@@ -795,7 +795,7 @@
 			};
 			name = Release;
 		};
-		372347AB2A56AA67002BE596 /* Debug */ = {
+		37EA96282A612101008C32BE /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				CODE_SIGN_ENTITLEMENTS = "macOS (Extension)/LeetHub v2.entitlements";
@@ -826,7 +826,7 @@
 			};
 			name = Debug;
 		};
-		372347AC2A56AA67002BE596 /* Release */ = {
+		37EA96292A612101008C32BE /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				CODE_SIGN_ENTITLEMENTS = "macOS (Extension)/LeetHub v2.entitlements";
@@ -857,7 +857,7 @@
 			};
 			name = Release;
 		};
-		372347AF2A56AA67002BE596 /* Debug */ = {
+		37EA962C2A612101008C32BE /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
@@ -892,7 +892,7 @@
 			};
 			name = Debug;
 		};
-		372347B02A56AA67002BE596 /* Release */ = {
+		37EA962D2A612101008C32BE /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
@@ -930,52 +930,52 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		372347532A56AA66002BE596 /* Build configuration list for PBXProject "LeetHub v2" */ = {
+		37EA95D02A612100008C32BE /* Build configuration list for PBXProject "LeetHub v2" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				372347A12A56AA67002BE596 /* Debug */,
-				372347A22A56AA67002BE596 /* Release */,
+				37EA961E2A612101008C32BE /* Debug */,
+				37EA961F2A612101008C32BE /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		372347A32A56AA67002BE596 /* Build configuration list for PBXNativeTarget "LeetHub v2 Extension (iOS)" */ = {
+		37EA96202A612101008C32BE /* Build configuration list for PBXNativeTarget "LeetHub v2 Extension (iOS)" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				372347A42A56AA67002BE596 /* Debug */,
-				372347A52A56AA67002BE596 /* Release */,
+				37EA96212A612101008C32BE /* Debug */,
+				37EA96222A612101008C32BE /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		372347A72A56AA67002BE596 /* Build configuration list for PBXNativeTarget "LeetHub v2 (iOS)" */ = {
+		37EA96242A612101008C32BE /* Build configuration list for PBXNativeTarget "LeetHub v2 (iOS)" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				372347A82A56AA67002BE596 /* Debug */,
-				372347A92A56AA67002BE596 /* Release */,
+				37EA96252A612101008C32BE /* Debug */,
+				37EA96262A612101008C32BE /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		372347AA2A56AA67002BE596 /* Build configuration list for PBXNativeTarget "LeetHub v2 Extension (macOS)" */ = {
+		37EA96272A612101008C32BE /* Build configuration list for PBXNativeTarget "LeetHub v2 Extension (macOS)" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				372347AB2A56AA67002BE596 /* Debug */,
-				372347AC2A56AA67002BE596 /* Release */,
+				37EA96282A612101008C32BE /* Debug */,
+				37EA96292A612101008C32BE /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		372347AE2A56AA67002BE596 /* Build configuration list for PBXNativeTarget "LeetHub v2 (macOS)" */ = {
+		37EA962B2A612101008C32BE /* Build configuration list for PBXNativeTarget "LeetHub v2 (macOS)" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				372347AF2A56AA67002BE596 /* Debug */,
-				372347B02A56AA67002BE596 /* Release */,
+				37EA962C2A612101008C32BE /* Debug */,
+				37EA962D2A612101008C32BE /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
-	rootObject = 372347502A56AA66002BE596 /* Project object */;
+	rootObject = 37EA95CD2A612100008C32BE /* Project object */;
 }
