@@ -2,7 +2,7 @@
 //  AppDelegate.swift
 //  iOS (App)
 //
-//  Created by 김영훈 on 2023. 7. 14..
+//  Created by 김영훈 on 2024. 4. 24..
 //
 
 import UIKit
